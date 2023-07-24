@@ -1,0 +1,41 @@
+{
+	"id": -1,
+	"name": "Madvillainy",
+	"description": "Madvillainy is the only studio album by American hip hop duo Madvillain, consisting of rapper MF Doom and producer Madlib. It was released on March 23, 2004, on Stones Throw Records. It is also considered as one of the best Hip Hop album ever by fans and critics",
+	"links": {
+		"subreddit": [
+			"mfdoom",
+			"Madlib"
+		]
+	},
+	"path": {
+		"201": [
+			[
+				-219,
+				-757
+			],
+			[
+				-219,
+				-746
+			],
+			[
+				-208,
+				-746
+			],
+			[
+				-208,
+				-757
+			],
+			[
+				-219,
+				-757
+			]
+		]
+	},
+	"center": {
+		"201": [
+			-213,
+			-751
+		]
+	}
+}
